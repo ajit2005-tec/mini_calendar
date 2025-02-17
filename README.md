@@ -17,7 +17,7 @@ This is a simple Mini Calendar project built using **HTML, CSS, and JavaScript**
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/mini-calendar.git
+   git clone https://github.com/ajit2005-tec/mini_calendar.git
    ```
 2. Open the `index.html` file in your browser.
 3. The current date will be displayed automatically.
