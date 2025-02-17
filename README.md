@@ -32,7 +32,7 @@ mini-calendar/
 ```
 
 ## Screenshot
-![Mini Calendar Screenshot](screenshot.png)
+![Mini Calendar Screenshot](Screenshot_2025-02-17-16-57-32-356-edit_com.android.chrome.jpg)
 
 ## Live Demo
 You can access the live version of this project [here](https://github.com/ajit2005-tec/mini_calendar).
