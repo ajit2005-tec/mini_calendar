@@ -35,7 +35,7 @@ mini-calendar/
 ![Mini Calendar Screenshot](screenshot.png)
 
 ## Live Demo
-You can access the live version of this project [here](https://your-github-username.github.io/mini-calendar/).
+You can access the live version of this project [here](https://your-github-ajit2005-tec.github.io/mini_calendar/).
 
 ## Contributing
 Feel free to fork this repository and contribute by submitting a pull request.
